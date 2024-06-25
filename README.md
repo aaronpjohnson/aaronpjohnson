@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aaron! <br/><a href="https://github.com/aaronpjohnson">Programmer</a>, <a href="https://www.linkedin.com/in/aaron-p-johnson/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@AaronPJohnson">YouTuber</a></h1>
+<h1>Hi, I'm Aaron! <br/><a href="https://github.com/aaronpjohnson">Programmer</a>, <a href="https://www.linkedin.com/in/aaron-p-johnson/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
